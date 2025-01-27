@@ -23,7 +23,8 @@ Therefore, we shall create a prototype of a robot which shall do the automated s
 - Unpredictability in occurrence of untrained scenarios.​
 
 ## 2. Demo
-<video controls src="Assets/demo video.mp4" title="Demo Video (English)"></video>
+https://github.com/user-attachments/assets/6325fd05-e518-46d2-be59-20b5ee9da56d
+
 
 ## 3. Setup
 ### 3.1. Components
